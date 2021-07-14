@@ -1,0 +1,144 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+  color:#40514E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size:5.625rem;
+  color:#66BFBF;
+  line-height: 0.8;
+}
+
+h2 {
+font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color:#66BFBF;
+  font-weight: 500;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+   color:#11999E;
+}
+a{
+  color: #11999E;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+/* .middle-container {
+}
+
+.bottom-container {
+} */
+
+.skill-row{
+  width:50%;
+  /* text-align: center;
+  display:inline-block; */
+  margin:100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.html-image{
+  width:25%;
+  float: left;
+  margin-right:30px;
+}
+
+.css-image{
+  width:25%;
+  float: right;
+  margin-left:30px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.introduction{
+  display:inline-block;
+  width:30%;
+  margin:auto;
+  line-height:2;
+}
+
+.contact-p{
+  display: inline-block;
+  width: 30%;
+  text-align: center;
+  line-height: 2;
+}
+
+.btn{
+  color:white;
+  background-color: rgb(59,154,159);
+  border-style: none;
+  border-radius:10px;
+  height:35px;
+  width:100px;
+  cursor:pointer;
+}
+.btn:hover{
+  background-color:#2f767d;
+}
+
+.bottom-container{
+  background-color: #66BFBE;
+}
+
+.footer-link{
+  text-decoration: none;
+  color:#11999E;
+  display:inline-block;
+  padding:30px;
+}
+
+.footer-link:hover{
+  text-decoration: none;
+  color:#2d6b70;
+  display:inline-block;
+  padding:30px;
+}
+
+.copyright{
+  color:#EAF6F6;
+  margin-bottom:0;
+  padding-bottom:20px;
+  font-size: 0.75rem;
+}
+
+.logo{
+  width:13%;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width:5%;
+  border-top-width: 8px;
+  border-color: #EAF6F6;
+  margin-top:25px;
+}
