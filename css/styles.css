@@ -57,9 +57,9 @@ a{
 }
 
 .css-image{
-  width:25%;
   float: right;
   margin-left:30px;
+  margin-top:10px;
 }
 
 .pro {
