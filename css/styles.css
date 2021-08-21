@@ -143,18 +143,3 @@ hr{
   border-color: #EAF6F6;
   margin-top:25px;
 }
-
-
-/* width */
-::-webkit-scrollbar {
-  width: 10px;
-}
-
-/* Handle */
-::-webkit-scrollbar-thumb {
-  background:#EFFFFD; 
-}
-
-/* Handle on hover */
-::-webkit-scrollbar-thumb:hover {
-  background: #E2F5F1; 
